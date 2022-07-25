@@ -2,3 +2,5 @@
 /micro-service-cloud-api/target/
 /micro-service-cloud-eureka-7001/target/
 /micro-service-cloud-provider-dept-8001/target/
+/.idea
+*.iml
